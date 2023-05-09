@@ -41,3 +41,12 @@ The coverage report will be inside `server/target/site/jacoco`.
 Run the `python3 -m http.server 8000` command to see report.
 
 Mutation testing command `mvn test-compile org.pitest:pitest-maven:mutationCoverage`
+
+client
+This repository contains the client for the CS-415 project. The client by default is on port 3000. Go to http://localhost:3000/ to access the homepage.
+
+Start client
+Run npm start.
+
+Build client
+Run npm run build.
