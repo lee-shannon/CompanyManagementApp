@@ -1,0 +1,41 @@
+#formBackground {
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 20px;
+    position: relative;
+    bottom: 20px;
+}
+
+#createButton {
+    text-align: center;
+}
+
+#cancelButton {
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+}
+
+#create {
+    text-align: center;
+    position: relative;
+    top: 15px;
+}
+
+#nameLabel {
+    font-weight: bold;
+}
+
+#qualificationsLabel {
+    font-weight: bold;
+}
+
+#size {
+    font-weight: bold;
+}
+
+#validationTextError{
+    color:#D27373
+}
